@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=julioSantos-sys&show_icons=true&theme=dracula" />
-  <img height="180" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=julioSantos-sys&show_icons=true&theme=dracula&layout=compact" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=julioSantos-sys&show_icons=true&theme=radical" />
+  <img height="180" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=julioSantos-sys&show_icons=true&theme=radical&layout=compact" />
 </p>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
