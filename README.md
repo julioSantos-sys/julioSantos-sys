@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=julioSantos-sys&show_icons=true&theme=radical" />
   <img height="180" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=julioSantos-sys&show_icons=true&theme=radical&layout=compact" />
 </p>
 
