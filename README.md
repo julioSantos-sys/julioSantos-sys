@@ -4,9 +4,10 @@
   Desenvolvedor dedicado e apaixonado por programação! Busco resolver problemas e otimizar tarefas por meio de programação, com forte interesse em backend, arquitetura de sistemas e infraestrutura de redes.
 </p>
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=julioSantos-sys&show_icons=true&theme=radical&layout=compact" />
-</p>
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=julioSantos-sys&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=julioSantos-sys&show_icons=true&theme=radical&layout=compact" />
+ </div>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
